@@ -1,1 +1,4 @@
-pygame==1.9.4
+python==3.6.0
+certifi==2019.6.16
+pygame==1.9.6
+wincertstore==0.2
